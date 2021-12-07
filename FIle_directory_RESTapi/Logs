@@ -1,0 +1,35 @@
+User : 71, Logged :1638872794227, Performed :creation 
+User : 90, Logged :1638872807062, Performed :Update 
+User : 90, Logged :1638872963041, Performed :Update 
+User : 90, Logged :1638873600295, Performed :Update 
+User : 90, Logged :1638873615911, Performed :Update 
+User : 90, Logged :1638873651296, Performed :Update 
+User : 90, Logged :1638873774589, Performed :Update 
+User : 90, Logged :1638873825079, Performed :Update ,Result :Successfully
+User : 92, Logged :1638873847184, Performed :Update ,Result :Failure
+User : 75, Logged :1638873862950, Performed :Create ,Result :Successfully
+User : 79, Logged :1638873899709, Performed :Create ,Result :Failure
+User : 79, Logged :1638873965851, Performed :Create ,Result :Failure
+User : 92, Logged :1638873970274, Performed :Update ,Result :Failure
+User : 91, Logged :1638873978253, Performed :Update ,Result :Failure
+User : 90, Logged :1638873987877, Performed :Update ,Result :Successfully
+User : 90, Logged :1638874071650, Performed :Update ,Result :Successfully
+User : 90, Logged :1638874089762, Performed :Update ,Result :Successfully
+User : 90, Logged :1638874092218, Performed :Update ,Result :Successfully
+User : 90, Logged :1638874093755, Performed :Update ,Result :Successfully
+User : 90, Logged :1638874139691, Performed :Update ,Result :Successfully
+User : 9, Logged :1638874149039, Performed :Update ,Result :Failure
+User : 9, Logged :1638874430782, Performed :Update ,Result :Failure
+User : 79, Logged :1638874433725, Performed :Create ,Result :Failure
+User : 79, Logged :1638874524428, Performed :Create ,Result :Failure
+User : 78, Logged :1638874531418, Performed :Create ,Result :Failure
+User : 78, Logged :1638874610808, Performed :Create ,Result :Failure
+User : 1, Logged :1638874622860, Performed :Create ,Result :Successfully
+User : 10000, Logged :1638874631664, Performed :Create ,Result :Successfully
+User : 10000, Logged :1638874953221, Performed :Create ,Result :Failure
+User : 100001, Logged :1638874976143, Performed :Create ,Result :Successfully
+User : N_4768, Logged :1638875155556, Performed :Create ,Result :Failure
+User : N_4760, Logged :1638875166197, Performed :Create ,Result :Successfully
+User : N_4760, Logged :1638875204666, Performed :Update ,Result :Successfully
+User : N_4760, Logged :1638875210218, Performed :Update ,Result :Successfully
+User : N_4769, Logged :1638875223431, Performed :Update ,Result :Failure
