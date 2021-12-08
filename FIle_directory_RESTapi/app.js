@@ -115,6 +115,21 @@ app.get('/updateTxt/:id/:data', (req, res) => {
 
 })
 
+app.get('/delete/:id', (req, res) => {
+    var file = req.params.id.split('=')[1]
+    fs.rm(des + '/' + file, (err) => {
+        if (err) {
+            log(file, "Delete", "Failure")
+            res.send("file does not exist")
+            res.end()
+        } else {
+            res.send("deleted Successfully")
+            res.end();
+            log(file, "Delete", "Successfully")
+        }
+    })
+})
+
 app.listen(3000, () => {
     console.log("server is listening to 3000...")
 })
